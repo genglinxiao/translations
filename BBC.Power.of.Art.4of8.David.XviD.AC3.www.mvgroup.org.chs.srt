@@ -38,7 +38,7 @@ with the names of his paintings.
 00:00:49,087 --> 00:00:54,445
 All but one, which happened to be
 the greatest of them all.
-但是，最杰出的一副，却偏偏未在其中。
+但是，刚好是最杰出的一副，却偏偏未在其中。
 
 
 8
@@ -176,41 +176,41 @@ That guaranteed a crowd.
 32
 00:03:54,727 --> 00:03:55,921
 No, monsieur.
-不不，大人，
+>> 不不，大人，
 
 33
 00:03:56,967 --> 00:04:00,801
 Because you are a great lord,
 you think you're a great genius?
-就因为你是大老爷，你就该是一个大天才？
+>> 就因为你是大老爷，你就该是一个大天才？
 
 34
 00:04:01,287 --> 00:04:03,847
 Nobility, rank,
-爵位，品衔，
+>> 爵位，品衔，
 
 35
 00:04:03,927 --> 00:04:08,239
 position, fortune,
 how proud they make a man feel.
-职级，财富，
-它们让人何其得意
+>> 职级，财富，
+>> 它们让人何其得意
 
 36
 00:04:08,727 --> 00:04:11,719
 What have you done to deserve such advantages?
-你有何德能配得如此眷顾？
+>> 你有何德能配得如此眷顾？
 
 37
 00:04:12,927 --> 00:04:17,523
 Put yourself to the trouble of being born,
 nothing more. For the rest...
-无非是投对了胎，除此之外，
+>> 无非是投对了胎，除此之外，
 
 38
 00:04:19,447 --> 00:04:21,563
 ...you're a very ordinary man.
-你不过就是个普通人
+>> 你不过就是个普通人
 
 39
 00:04:29,007 --> 00:04:33,523
@@ -299,7 +299,7 @@ to astonish the world.
 00:05:29,207 --> 00:05:32,438
 And if they were really
 going to create a new France,
-而如果他们要创立一个全新的法兰西
+而如果要创立一个全新的法兰西
 
 55
 00:05:32,527 --> 00:05:36,202
@@ -431,7 +431,8 @@ He was looked after by friendly uncles
 00:07:38,327 --> 00:07:44,846
 who wanted him to be a lawyer or an architect,
 but David would hear of nothing but painting.
-叔叔们希望他能成为律师或者建筑设计师，但是大卫除了油画什么都听不进去。
+叔叔们希望他能成为律师或者建筑设计师，
+但是大卫除了油画什么都听不进去。
 
 79
 00:07:45,607 --> 00:07:49,156
@@ -534,7 +535,8 @@ Terrible smallpox scars, club feet, harelips, the lot.
 00:09:30,087 --> 00:09:35,207
 But some accidents matter to people
 and some don't. This one did.
-但是有些外伤对人无关紧要，有些很让人在意。大卫就很在意自己的伤口。
+但是有些外伤对人无关紧要，有些很让人在意。
+大卫就很在意自己的伤口。
 
 97
 00:09:41,647 --> 00:09:45,526
@@ -615,6 +617,7 @@ he wanted the best for everyone,
 00:11:09,687 --> 00:11:12,360
 but he just didn't know how to get it.
 他就是不知道该怎么做
+
 111
 00:11:15,607 --> 00:11:18,075
 The saddest thing about Louis XVI
@@ -658,13 +661,14 @@ in came modesty, the cult of nature.
 00:11:56,167 --> 00:12:02,242
 Even Louis XVI's young Austrian queen,
 Marie Antoinette, was a devotee.
-连路易十六的奥地利王后，年轻的玛丽·安托瓦内特，也是新口味的拥护者。
+连路易十六的奥地利王后，年轻的玛丽·安托瓦内特，
+也是新口味的拥护者。
 
 119
 00:12:02,847 --> 00:12:09,036
 She built a toy farm here at Versailles,
 went off milking cows in the royal dairy.
-她在凡尔赛宫建了一个玩具农场，去给皇家奶牛挤奶。
+她在凡尔赛宫建了一个迷你农场，去给皇家奶牛挤奶。
 
 120
 00:12:10,167 --> 00:12:13,364
@@ -768,7 +772,8 @@ and the Romans had become slaves.
 00:13:52,167 --> 00:13:57,287
 How that message from history
 echoed in David's fertile brain.
-这些来自历史深处的启示，是如何在大卫那活跃的大脑里回响呢？
+这些来自历史深处的启示，
+是如何在大卫那活跃的大脑里回响呢？
 
 139
 00:14:01,007 --> 00:14:05,046
@@ -909,7 +914,7 @@ whether to be thrilled or scared.
 00:16:42,647 --> 00:16:46,765
 It felt like a call to arms
 in the face of a great crisis.
-仿佛自己身处危机，被召唤武装。
+仿佛自己身处危机，被召唤入伍。
 
 164
 00:16:50,727 --> 00:16:56,006
@@ -959,7 +964,7 @@ were tax-exempt,
 00:17:30,447 --> 00:17:34,281
 while the scarecrow poor
 were supposed to empty their pockets.
-而穷人却必须倾囊相授？
+而穷人却必须掏空口袋？
 
 173
 00:17:35,007 --> 00:17:37,726
@@ -1004,7 +1009,8 @@ around the corner.
 00:18:21,927 --> 00:18:28,685
 For a while, that's how David himself felt,
 which didn't mean a little reform wouldn't help.
-有一段时间，大卫也是这么感觉的。但这不是说一点改革都不需要。
+有一段时间，大卫也是这么感觉的。
+但这不是说一点改革都不需要。
 
 181
 00:18:28,767 --> 00:18:30,837
@@ -1021,7 +1027,7 @@ at the Academy of Painting, they'd have to go.
 00:18:37,087 --> 00:18:41,638
 When he was a struggling artist,
 they'd rejected him four times.
-大卫出名之前，被他们据过四次。
+大卫出名之前，被他们拒过四次。
 
 184
 00:18:41,727 --> 00:18:45,515
@@ -1039,7 +1045,7 @@ Anyway, he didn't need them any more.
 186
 00:18:50,407 --> 00:18:53,604
 Now he had intelligent, liberal-minded followers.
-现在他有自己的聪敏开明的追随者。
+现在他有自己聪敏开明的追随者。
 
 187
 00:19:03,287 --> 00:19:08,315
@@ -1086,7 +1092,7 @@ designing illustrations for his books.
 00:19:42,487 --> 00:19:46,719
 He's filthy rich,
 but he does have a social conscience.
-先生财大气粗，又有社会良知，
+先生财大气粗，却不乏社会良知，
 
 195
 00:19:46,807 --> 00:19:50,436
@@ -1120,7 +1126,8 @@ humane, affectionate and modern.
 00:20:07,607 --> 00:20:13,443
 Well, for 7,000 livres, he wasn't even
 going to hint at the other Lavoisier,
-当然了，为了7000里弗尔，他才不会去提及拉瓦锡的另一面，
+当然了，为了7000里弗尔，
+他才不会去提及拉瓦锡的另一面，
 
 201
 00:20:13,727 --> 00:20:18,403
@@ -1144,7 +1151,8 @@ But then he would, wouldn't he?
 00:20:31,247 --> 00:20:36,879
 Between the paint drying and the show opening,
 everything in France had changed.
-就在油画尚未晾干，展会开幕之前的一段时间里，法国的一切都变了。
+就在油画尚未晾干，展会开幕之前的一段时间里，
+法国的一切都变了。
 
 205
 00:20:38,087 --> 00:20:39,884
@@ -1182,7 +1190,7 @@ Harvest wipeouts, soaring prices.
 00:21:15,007 --> 00:21:18,966
 Put hope and desperation together,
 and what do you get?
-把希望和绝望放到一起，得到什么？
+把希望遇到绝望，得到什么？
 
 212
 00:21:19,887 --> 00:21:22,959
@@ -1300,7 +1308,8 @@ until we have made a sound and just constitution.
 00:23:07,407 --> 00:23:12,845
 For the first time, aristocrats,
 clergy and bourgeoisie were meeting together
-贵族，神职人员和中产阶级第一次在没有国王许可的情况下,
+贵族，神职人员和中产阶级第一次
+在没有国王许可的情况下,
 
 233
 00:23:12,927 --> 00:23:15,202
@@ -1360,12 +1369,12 @@ the furious energy of liberty.
 243
 00:24:13,967 --> 00:24:15,639
 It's an idea.
-这是一种理念
+这是一种信念
 
 244
 00:24:15,727 --> 00:24:20,164
 An idea so big, it dwarfs the humans who enact it.
-这里面如此重要，实践这种理念的人相形见绌。
+这信念如此重要，实践这种理念的人相形见绌。
 
 245
 00:24:37,127 --> 00:24:41,086
@@ -1581,7 +1590,8 @@ and now they've marked his mind.
 282
 00:28:50,727 --> 00:28:54,515
 From father to fatherland is but a short step.
-从父亲到祖国只是很小一部
+从父亲到祖国只是很小一步
+
 283
 00:28:55,607 --> 00:29:02,046
 The first two years of the Revolution swung 
@@ -1620,12 +1630,12 @@ Someone was to blame.
 the jeering market women called them,
 路易和玛丽被揪出凡尔赛宫的港湾，弄到巴黎的时候，
 
-
 290
 00:30:03,007 --> 00:30:08,798
 as they dragged Louis and Marie Antoinette
 out of the safety of Versailles, to Paris.
 市场上的女人称他们为“面包师和面包师的老婆”
+
 291
 00:30:10,887 --> 00:30:15,119
 The queen, they said,
@@ -1686,7 +1696,7 @@ failed inventor, newspaper editor, fanatic.
 301
 00:31:03,767 --> 00:31:05,485
 Here he is in his bath,
-这是他在洗澡间
+这是他在浴缸里
 
 302
 00:31:05,567 --> 00:31:11,164
@@ -1719,13 +1729,13 @@ whom he fingered as traitors.
 307
 00:31:29,527 --> 00:31:32,405
 ''There are plots everywhere, ''he screamed.
-“到处都是阴谋“，他叫喊着
+“到处都是阴谋诡计“，他叫喊着
 
 308
 00:31:37,007 --> 00:31:42,639
 The street, caught between fear and
 hyperventilation, ate up the conspiracy theories.
-街头，夹在恐惧和过度放松之间，接受了这些阴谋理论。
+街头的人们，夹在恐惧和过度放松之间，接受了这些阴谋理论。
 
 309
 00:31:43,127 --> 00:31:46,199
@@ -1763,7 +1773,8 @@ and taken back, virtual prisoners, to Paris.
 00:32:08,647 --> 00:32:15,120
 Austria threatened France with dire consequences
 should anything happen to the king and queen.
-奥地利威胁说如果国王和王后有任何不测法国就要承担严重的后果。
+奥地利威胁说如果国王和王后有任何不测，
+法国就得承担严重的后果。
 
 316
 00:32:15,607 --> 00:32:19,566
@@ -1779,7 +1790,7 @@ The following year, war broke out,
 00:32:26,127 --> 00:32:30,359
 and their days, and the days
 of the French monarchy, were numbered.
-他们剩下的日子，法国君主制的日子，就屈指可数了。
+他们剩下的日子，法国君主制的日子，已经屈指可数了。
 
 319
 00:32:39,167 --> 00:32:44,685
@@ -1849,19 +1860,19 @@ You belong to the Patrie, the fatherland.
 331
 00:34:30,647 --> 00:34:31,636
 MAN: Everything is in motion.
-所有的事情都在紧张进行中
+>> 所有的事情都在紧张进行中
 
 332
 00:34:31,727 --> 00:34:36,278
 Everyone burns to fight. To conquer our enemies,
-每个人都急于战斗，去征服敌人
+>> 每个人都急于战斗，去征服敌人
 
 333
 00:34:37,567 --> 00:34:44,245
 we must have daring, more daring, always daring.
 And France will be saved!
-我们必须敢于战斗，勇于战斗，永远勇敢，
-法兰西必然得到拯救！
+>> 我们必须敢于战斗，勇于战斗，永远勇敢，
+>> 法兰西必然得到拯救！
 
 334
 00:34:52,247 --> 00:34:57,879
@@ -1873,23 +1884,24 @@ protecting the royal family were slaughtered,
 00:34:59,167 --> 00:35:03,718
 Louis, Marie Antoinette and their children
 were taken to prison.
-路易，玛丽和他们的孩子被投入监狱
+路易，玛丽和他们的孩子们被投入监狱
 
 336
 00:35:11,967 --> 00:35:17,485
 One must never compromise with tyrants.
 One can only strike at kings through the head.
-对暴君绝不可妥协，只能迎头痛击。
+>> 对暴君绝不可妥协，只能迎头痛击。
 
 337
 00:35:17,567 --> 00:35:19,683
 I vote for death of the tyrant.
-我投处死暴君
+>> 我投处死暴君
 
 338
 00:35:25,847 --> 00:35:28,486
 You're a very ordinary man.
-你不过是个普通人
+>> 你不过是个普通人
+
 339
 00:35:32,847 --> 00:35:39,116
 On January 21st, 1793,
@@ -2101,7 +2113,7 @@ David was paying his friend Marat a visit.
 377
 00:39:42,327 --> 00:39:44,841
 He found him propped up in his bath,
-他看到他把一个木箱子翻过来当桌子，
+他看到他把一个木箱子翻过来临时当桌子，
 
 378
 00:39:44,927 --> 00:39:49,523
@@ -2240,7 +2252,7 @@ I shall do it.
 00:42:17,727 --> 00:42:21,515
 It was midsummer,
 the hottest in anyone's memory.
-正值仲夏，所有人的记忆中最热的时间。
+正值仲夏，所有人的记忆中最热的一回。
 
 403
 00:42:24,767 --> 00:42:29,238
@@ -2263,7 +2275,7 @@ was rapidly turning green.
 00:42:43,247 --> 00:42:49,277
 David had wanted Marat displayed sitting upright,
 working for the good of the people.
-大卫本希望马拉能够展示坐正，为人民不辞辛劳的样子，
+大卫本希望马拉能够坐正，展示为人民不辞辛劳的样子，
 
 407
 00:42:49,967 --> 00:42:53,721
@@ -2325,7 +2337,7 @@ The skin has the colour of cool stone,
 00:44:18,607 --> 00:44:24,045
 the wound is unmissable,
 yet at the same time almost delicate,
-伤口非常明显，同时又有点太秀气了，
+伤口非常明显，同时又有点太精致了，
 
 418
 00:44:24,127 --> 00:44:27,836
@@ -2351,7 +2363,7 @@ It's a cult image,
 422
 00:44:49,407 --> 00:44:52,240
 and it tells you to believe.
-告诉你要相信它。
+要求你要相信它。
 
 423
 00:44:59,687 --> 00:45:05,080
@@ -2418,7 +2430,7 @@ like a victim of his own kindness.
 00:45:51,087 --> 00:45:57,435
 ''It's enough that I am truly unhappy
 to have the right to your benevolence, '' it says.
-“这样受恩于您，我真的很不开心。这就够了“，信上说。
+“这样受恩于您，我真的很不开心。这就够了“，上面写着。
 
 435
 00:45:59,407 --> 00:46:05,642
@@ -2500,7 +2512,7 @@ another voice inside your head says,
 449
 00:47:21,847 --> 00:47:24,281
 ''this is the purest witchcraft.''
-“这是纯粹的巫术”
+“这是彻头彻尾的巫术”
 
 450
 00:47:24,447 --> 00:47:28,963
@@ -2522,7 +2534,7 @@ about politics.
 453
 00:47:38,567 --> 00:47:41,639
 This is an accomplice of terror.
-“这是对恐怖的共谋“
+“这是与恐怖的共谋“
 
 454
 00:48:01,247 --> 00:48:05,923
@@ -2534,7 +2546,7 @@ that he was betraying art.
 00:48:06,007 --> 00:48:11,035
 ''Oh, no,'' he would have said.
 ''I'm fulfilling its highest, noblest purpose,"
-“哦，不对。“他会说，”我是在事先艺术的最崇高的目标：“
+“哦，不对。“他会说，”我是在实现艺术的最崇高的目标：“
 
 456
 00:48:11,607 --> 00:48:14,280
@@ -3046,7 +3058,7 @@ as a back number,
 550
 00:57:26,967 --> 00:57:30,676
 ''Oh, David, Brutus and all that. Isn't he dead?''
-“哦，大卫，画过布鲁图斯等等那个。他不是过世了？“
+“哦，大卫，画过布鲁图斯等等那个。他死了吗？“
 
 551
 00:57:33,807 --> 00:57:37,197
