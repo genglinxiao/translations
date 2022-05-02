@@ -58,8 +58,7 @@ the bed of the dying Saxon king
 
 10
 00:00:48,950 --> 00:00:52,943
-有一位权势仅次于国王的人
-Harold Godwinson
+有权势仅次于国王的Harold Godwinson
 was the next most powerful man
 in England, Harold Godwineson
 
@@ -96,13 +95,13 @@ making Harold king?
 16
 00:01:13,750 --> 00:01:17,220
 谁都说不好
-但是Harold毫无疑虑
+但是Harold十分确信
 Nobody knew for sure,
 but Harold had no qualms.
 
 17
 00:01:17,310 --> 00:01:19,266
-他攫取了王位
+他攫取了王冠
 He seized the crown.
 
 18
@@ -335,7 +334,7 @@ of Alfred the Great,
 
 56
 00:04:56,830 --> 00:05:00,379
-英国已经很稳定，足以化解这些冲击
+英国已经很稳定，足以吸收、化解这些冲击
 it was a country
 stable enough to soak them up.
 
@@ -419,7 +418,7 @@ over what was still
 
 70
 00:05:50,990 --> 00:05:54,027
-风貌依然可辨的盎格鲁-萨克逊英格兰
+风貌清晰可辨的盎格鲁-萨克逊英格兰
 recognisably Anglo-Saxon England.
 
 71
@@ -443,7 +442,7 @@ would be unable to swallow.
 
 74
 00:06:07,710 --> 00:06:10,349
-何等传奇
+这是何等的传奇
 And what a saga it was.
 
 75
@@ -685,37 +684,42 @@ were constantly in the saddle
 
 115
 00:08:55,910 --> 00:08:57,866
-不是在对臣属逞豪强，
+将自己的意愿强加于臣属，
 imposing their will on vassals,
 
 116
 00:08:58,030 --> 00:09:01,989
-就是在评定叛乱，拉帮结派。
+平定叛乱，建立摇摇欲坠的联盟。
 fighting off revolts
 and forging shaky coalitions.
 
 117
 00:09:02,150 --> 00:09:05,506
+但在他们的属地，也不乏虔诚的信众。
 But the duchy was also humming
 with energetic piety.
 
 118
 00:09:05,670 --> 00:09:09,026
+在11世纪，漂亮的修道院和带罗马式
 In the 11th century, handsome
 stone monasteries and churches
 
 119
 00:09:09,190 --> 00:09:12,466
+拱门的教堂开始出现。
 with Romanesque arches
 began to appear.
 
 120
 00:09:12,630 --> 00:09:17,340
+宏伟的石头城堡，跟建造他们的Norman领主一样坚固，
 Grandiose stone castles, as tough
 as the Norman lords who'd built them,
 
 121
 00:09:17,510 --> 00:09:19,819
+成为景观的一部分。
 became part of the landscape.
 
 122
@@ -750,13 +754,13 @@ at Falles in 1027
 
 127
 00:09:46,590 --> 00:09:50,424
-William，同龄人所熟知的私生子William
+William，同龄人所熟知的私生子William——
 that William, known to his
 contemporaries though not to his face
 
 128
 00:09:50,590 --> 00:09:53,229
-虽然没人当面这么叫他，出生了
+虽然没人当面这么叫他——出生了
 as William the Bastard,
 was born.
 
@@ -774,13 +778,13 @@ called Ellave.
 
 131
 00:09:59,790 --> 00:10:02,782
-在竞争激烈的封建诺曼底
+在封建诺曼底的残酷世界
 And in the cut-throat world
 of feudal Normandy,
 
 132
 00:10:02,950 --> 00:10:06,943
-很关键的是，他很快学会如何生存下来。
+学会如何生存非常重要，好在他学的很快。
 it was important that he learn,
 and quickly, how to survive.
 
@@ -847,13 +851,13 @@ to witness the brutal murder
 
 143
 00:10:49,310 --> 00:10:54,065
-在他的寝室，他的眼前，被残忍地杀害。
+在他的卧室，他的眼前，被残忍地杀害。
 of his beloved steward in his
 bedchamber, before his very eyes.
 
 144
 00:10:54,270 --> 00:10:57,785
-Edward一定惊奇过这个stripling男孩
+Edward一定惊奇过这个小毛孩
 Edward must have marvelled
 at the way the stripling boy
 
@@ -865,7 +869,7 @@ and ruthless young man,
 
 146
 00:11:01,230 --> 00:11:06,429
-在战斗中战胜惊人的反叛贵族们。
+在战斗中战胜强大的反叛贵族。
 triumphing in battle over
 a formidable league of rebel nobles.
 
@@ -931,7 +935,7 @@ of his sworn enemy failed miserably.
 
 157
 00:11:51,470 --> 00:11:55,258
-被驱逐的Wessex伯爵跟原来一样危险
+被驱逐的Wessex伯爵跟在家一样危险
 In exile, the Earl of Wessex
 was just as dangerous as at home,
 
@@ -1012,7 +1016,7 @@ But Edward had his own ideas.
 
 171
 00:12:47,950 --> 00:12:51,420
-好的，他会娶Edith，但是他决不跟她同寝。
+好吧，他会娶Edith，但是他决不跟她同寝。
 Yes, he'd married Edith
 but he'd never sleep with her.
 
@@ -1024,7 +1028,7 @@ would be her childlessness.
 
 173
 00:12:59,390 --> 00:13:02,621
-如今Edward有了一个更mischievous的想法
+如今Edward有了一个更“天才”的想法
 Now Edward had an even more
 mischievous thought:
 
@@ -1066,9 +1070,9 @@ of this in England,
 
 180
 00:13:24,230 --> 00:13:29,384
+Godwine就更不知情。他在1053年
 least of all Godwine, who in 1053
 died suddenly of a stroke
-Godwine就更不知情。他在1053年
 
 181
 00:13:29,550 --> 00:13:31,541
@@ -1107,7 +1111,7 @@ seemed to have everything:
 
 187
 00:13:54,510 --> 00:13:57,547
-土地，权势，财物，chrisma，出身贵族的夫人
+土地，权势，财物，魅力，出身贵族的夫人
 Land, power, riches, charisma,
 an aristocratic wife
 
@@ -1119,7 +1123,7 @@ of loyal and clever brothers.
 
 189
 00:14:01,190 --> 00:14:04,148
-他还成为教堂的金主
+他还设法成为教堂的金主
 He even managed to make himself
 patron of churches,
 
@@ -1246,7 +1250,7 @@ skilled stitchers in Europe.
 
 210
 00:15:34,790 --> 00:15:37,941
-还有谁会织就这么glamourous的英雄呢？
+除了他们，还有谁会织就这么魅力四射的英雄呢？
 Who else would have made
 such a glamorous hero?
 
@@ -1264,7 +1268,7 @@ of Guy of Ponthieu,
 
 213
 00:15:54,590 --> 00:15:57,707
-他们被逮捕然后交给Guy的liege lord
+他们被逮捕然后交给Guy的领主
 they were arrested and handed
 over to Guy's liege lord,
 
@@ -1420,7 +1424,7 @@ as it went to the heart of the matter.
 
 239
 00:17:50,230 --> 00:17:54,269
-Edward死后英格兰改归谁？
+Edward死后英格兰该归谁？
 What would happen to England
 after Edward died?
 
@@ -1450,7 +1454,7 @@ take the throne of England.
 
 244
 00:18:15,390 --> 00:18:19,861
-誓言因为一个戏剧性的伎俩而
+誓言因为一个廉价的戏剧伎俩而
 The oath became even more binding
 when in a cheap theatrical trick
 
@@ -1541,66 +1545,77 @@ a northern rebellion against him.
 
 259
 00:19:34,430 --> 00:19:37,149
-
+时常搜刮寺庙和修道院
 He'd been fleecing abbeys
 and monasteries,
 
 260
 00:19:37,310 --> 00:19:41,940
+建立自己的军队，表现得像个贪婪暴虐的公子。
 creating his own private army
 and acting like a greedy tyrannical brat.
 
 261
 00:19:42,910 --> 00:19:46,107
+不可避免地，当地贵族起来反对他，
 Inevitably,
 the local nobles rose against him,
 
 262
 00:19:46,270 --> 00:19:50,422
+宣布他为非法，并任命了自己人为新伯爵。
 declared him outlaw and put in
 their own man to be the new earl.
 
 263
 00:19:51,750 --> 00:19:55,106
+Harold被国王Edward派去收拾烂摊子
 Harold was sent by King Edward
 to sort out the mess
 
 264
 00:19:55,270 --> 00:19:58,660
+于是就面临艰难的选择：
 and was immediately faced
 with two tough choices.
 
 265
 00:19:58,830 --> 00:20:02,345
+他可以支持自己的兄弟Tostig，反对叛乱，
 He could back his younger brother
 Tostig against the rebels,
 
 266
 00:20:02,510 --> 00:20:04,978
+但这样可能导致内战；
 but that might create a civil war.
 
 267
 00:20:05,750 --> 00:20:10,221
+或者，他可以无视血缘关系，支持Tostig的敌人，
 Or he could forget about blood ties
 and support Tostig's enemies.
 
 268
 00:20:10,390 --> 00:20:13,029
+作为回报，他们可能心存感激，
 In return,
 they might feel grateful enough
 
 269
 00:20:13,110 --> 00:20:15,385
+在他有机会争取英国王位的时候
 to offer him their crucial support
 
 270
 00:20:15,470 --> 00:20:19,986
+给与至关重要的支持。
 when the time came for him
 to make his bid for the English throne.
 
 271
 00:20:21,790 --> 00:20:25,988
-最终，野心战胜了手足之情
+最终，野心战胜了兄弟情谊
 In the end, Harold put ambition
 before brotherly love.
 
@@ -2035,247 +2050,299 @@ was a phenomenal military organiser.
 
 345
 00:26:00,870 --> 00:26:04,579
-至于部队，Harold可以
+至于部队，Harold可以召集大约3000名
 As the crack troops of his army,
 Harold could call on the elite
 
 346
 00:26:04,750 --> 00:26:08,789
+“骑士”精锐，他们受过专业训练，
 of perhaps 3,000 "huscarls",
 professional soldiers
 
 347
 00:26:08,950 --> 00:26:12,659
+会使用双手斧头，只要操作得当，可以
 trained to handle a two-handed axe
 that, if swung right,
 
 348
 00:26:12,830 --> 00:26:17,426
+把马匹和骑手一下子劈开。
 could slice through a horse
 and its rider at one blow.
 
 349
 00:26:17,590 --> 00:26:22,220
+军队的核心是英格兰的5000名领主或者贵族。
 The core of the army was 5,000 Thanes -
 or noblemen - of England.
 
 350
 00:26:22,390 --> 00:26:28,306
+此外，还有13000名兼职士兵，"Fyrd",
 In addition there were the 13,000
 part-time soldiers, the "fyrd",
 
 351
 00:26:28,470 --> 00:26:31,507
+由他们的领主动员，每年有义务
 mobilised by their lords,
 obliged to give the king
 
 352
 00:26:31,670 --> 00:26:34,230
+为国王服役两个月。
 two months service each year.
 
 353
 00:26:36,310 --> 00:26:40,940
+这支军队以惊人的速度驻扎在南方海岸。
 With amazing speed, this army
 was stationed along the south coast.
 
 354
 00:26:42,270 --> 00:26:47,788
+到8月10日，William也让他的军队
+在Normandy海边准备好了。
 By August 10th, William had his army
 in place along the Normandy coast.
 
 355
 00:26:47,950 --> 00:26:52,387
+两支庞大的军事力量，隔着海峡对峙，
 Two great fighting forces
 bent on each other's annihilation
 
 356
 00:26:52,550 --> 00:26:55,508
+一心要消灭对方，
 faced each other
 across a little strip of water
 
 357
 00:26:55,670 --> 00:26:58,742
+决定英格兰的命运。
 to determine the destiny of England.
 
 358
 00:27:02,670 --> 00:27:04,467
+就这样等着，
 And there they sat,
 
 359
 00:27:04,630 --> 00:27:07,827
+William等着从未到来的南风，
 William waiting
 for a southerly wind that never came,
 
 360
 00:27:07,990 --> 00:27:11,983
+而Harold等着从未到来的William。
 and Harold waiting
 for William, who never came.
 
 361
 00:27:16,030 --> 00:27:19,784
+这种等待对于Harold尤其不利。
 This waiting was particularly
 serious for Harold.
 
 362
 00:27:19,950 --> 00:27:23,545
+到9月的第一个星期，他让Fyrd保持
 By the first week in September
 he'd kept the fyrd in battle position
 
 363
 00:27:23,710 --> 00:27:27,703
+战斗队形的事件，已经比他们两个月的
+义务多了至少两周了。
 for at least two weeks longer
 than their two-month obligation.
 
 364
 00:27:31,430 --> 00:27:34,866
+更何况，现在是收获季节。
 What's more,
 it was now harvest time.
 
 365
 00:27:35,030 --> 00:27:38,147
+所以，带者外人猜不透的疑虑和不安，
 So, with who knows what
 misgivings and uneasiness,
 
 366
 00:27:38,310 --> 00:27:41,700
+在9月8日，Harold让这些
 on September the 8th
 Harold demobilised the fyrd
 
 367
 00:27:41,870 --> 00:27:44,509
+Fyrd复原回家。
 and sent the soldiers home.
 
 368
 00:27:47,670 --> 00:27:51,948
+他的不安是对的。仅仅11天之后，
 He was right to feel uneasy.
 Just eleven days later
 
 369
 00:27:52,110 --> 00:27:57,707
+Harold得到震惊的消息：他弟弟回来了。
 Harold had a very nasty shock -
 his younger brother was back.
 
 370
 00:27:57,870 --> 00:28:01,658
+Tositig，与挪威国王Harold Hardrada一起
 Tostig, together with
 the Norwegian king, Harold Hardrada,
 
 371
 00:28:01,830 --> 00:28:05,948
+带者多达12000人登陆诺森比亚了。
 had landed in Northumbria
 with as many as 12,000 men.
 
 372
 00:28:06,110 --> 00:28:10,023
+Tostig在流放期间一直在寻找盟友，
 Tostig had spent his time
 in exile looking for allies
 
 373
 00:28:10,190 --> 00:28:12,340
+以报当年他与Harold结下的血仇。
 to pursue his vendetta against Harold.
 
 374
 00:28:12,510 --> 00:28:16,025
+得到令人生畏的挪威国王的支持，
 It was a coup for him
 that he'd enlisted the support
 
 375
 00:28:16,190 --> 00:28:18,658
+对Tostig是一手好棋。
 of the awesome King of Norway.
 
 376
 00:28:18,830 --> 00:28:23,426
+Hardrada简直就是那个时代最令人畏惧的战士
 Hardrada was quite simply
 the most feared warrior of the age.
 
 377
 00:28:23,590 --> 00:28:26,263
+身材犹如挪威的悬崖峭壁，
 Built like a Norwegian cliff face,
 
 378
 00:28:26,430 --> 00:28:29,581
+以超人的蛮力和
 he had the reputation
 for super-human strength
 
 379
 00:28:29,750 --> 00:28:32,822
+富有创造力的残忍而知名。
 and elaborately creative cruelty.
 
 380
 00:28:32,990 --> 00:28:36,539
+Hardrada对于英国王位也有稀薄的名分，
 Hardrada also had a flimsy claim
 to the English throne
 
 381
 00:28:36,710 --> 00:28:39,622
+而如果能赢得一个有争议的王位，
 that went back to Canute,
 and he wasn't one to flinch
 
 382
 00:28:39,790 --> 00:28:44,147
+他可不会在军事挑战中退缩。
 at a military challenge that
 could win him the disputed crown.
 
 383
 00:28:48,670 --> 00:28:52,822
+Hardrada于8月12日从挪威向西南航行。
 Harold Hardrada sailed southwest
 from Norway on August the 12th.
 
 384
 00:28:52,990 --> 00:28:57,939
+在途中，他在这里，Orkneys的海盗群岛停留，
 En route, he stopped here
 in the Viking earldom of the Orkneys
 
 385
 00:28:58,110 --> 00:29:00,749
+接收更多的人员和船只，
 to pick up yet more men and ships
 
 386
 00:29:00,910 --> 00:29:03,105
+以壮大他已经很强大的船队。
 to add
 to his already formidable fleet.
 
 387
 00:29:03,270 --> 00:29:06,467
+士气一定非常高涨
 Expectations must have been high.
 
 388
 00:29:06,630 --> 00:29:10,509
+北欧人几乎可以在夏日的风中闻到胜利的气息。
 The Norsemen could almost smell
 triumph in the summer winds.
 
 389
 00:29:10,670 --> 00:29:15,585
+当时有宴会，唱歌和诗歌朗诵，
 There would have been feasting,
 singing and the reading of poems,
 
 390
 00:29:15,750 --> 00:29:18,548
+其中一些毫无疑问出自Hardrada本人。
 some of them doubtless written
 by Hardrada himself.
 
 391
 00:29:18,710 --> 00:29:23,545
+Tostig可能就在在这里加入了维京海盗船队。
 And it may be here that Tostig
 joined the Viking fleet.
 
 392
 00:29:23,630 --> 00:29:27,623
+如果确实是这样，如果他看到了300艘船
 If he did and looked out
 and saw the 300 ships,
 
 393
 00:29:27,790 --> 00:29:30,463
+他必定有片刻，心念为之一动，
 his little heart must have
 skipped a beat
 
 394
 00:29:30,630 --> 00:29:33,781
+想到等待他哥哥的是何等灾难。
 to think of the catastrophe
 awaiting his brother.
 
 395
 00:29:33,950 --> 00:29:39,388
+
 Together, Tostig and Hardrada
 would be unstoppable, invincible.
 
