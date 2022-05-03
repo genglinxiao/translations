@@ -3794,57 +3794,65 @@ They also build differently.
 
 640
 00:48:39,510 --> 00:48:41,705
-Ely大教堂
+Ely大教堂就是规模较小的撒克逊教堂
 Ely Cathedral is one of those places
 
 641
 00:48:41,790 --> 00:48:44,907
+被大规模的胜利宣言式的建筑取代
 where the intimate scale
 of Saxon churches
 
 642
 00:48:45,070 --> 00:48:49,746
+的实例之一。
 was replaced by a statement
 of massive triumphalism.
 
 643
 00:48:49,910 --> 00:48:53,789
+这些立柱彰显权威和原始权力。
 These columns speak
 of authority and raw power.
 
 644
 00:48:53,950 --> 00:48:56,748
+他们要求服从和尊敬。
 They command obedience
 and reverence.
 
 645
 00:48:56,910 --> 00:49:00,789
+他们正是字面意义上的，令人惊叹。
 They are, in the most
 literal sense, awesome.
 
 646
 00:49:09,790 --> 00:49:11,781
+这正是
 It was the difference
 
 647
 00:49:11,950 --> 00:49:16,228
+诺曼底大教堂那巨大的罗马式主体
 between the immense Romanesque bulk
 of the great Norman cathedrals
 
 648
 00:49:16,390 --> 00:49:19,109
+与撒克逊教堂狭小的空间的区别。
 and the small spaces
 of the Saxon chapel.
 
 649
 00:49:19,950 --> 00:49:24,660
-在新旧统治者之间，另一个说明问题的区别是
+在新旧统治者之间，另一个明显的区别是
 There is another telling difference
 between the old and new rulers of England:
 
 650
 00:49:24,830 --> 00:49:27,424
-安格鲁－撒克逊不使用别名
+安格鲁－撒克逊人不使用别名
 Anglo-Saxons didn't use surnames.
 
 651
@@ -3861,12 +3869,13 @@ incorporated places
 
 653
 00:49:32,950 --> 00:49:36,306
-仿佛搜集占有一半
+仿佛搜集占有一般
 into their own names
 like an act of possession.
 
 654
 00:49:36,470 --> 00:49:40,099
+Roger Beau-Mont
 他们是来自美丽山间的Roger
 Roger of the beautiful hill
 Roger Beau－Mont
@@ -3881,8 +3890,7 @@ owned it lock, stock and barrel.
 
 656
 00:49:45,710 --> 00:49:48,224
-说起来，
-确保资产不被侵犯，乃是Norman贵族
+确实，确保资产不被侵犯，乃是Norman贵族
 In fact,
 preserving the estate intact
 
@@ -3918,588 +3926,711 @@ the fuzzy tangles of contracts and customs
 
 662
 00:50:09,430 --> 00:50:12,502
-给了Norman人优势
+给了Norman人优势。
 that had been used
 by the Anglo-Saxons.
 
 663
 00:50:13,590 --> 00:50:17,378
-正是这种风格，使William在1085年
+正是本着这种精神，1085年William
 And it was in this spirit
 that William, in 1085,
 
 664
 00:50:17,550 --> 00:50:20,701
-
+在Gloucester的朝会上决定开展可说是
 held court in Gloucester
 and launched arguably
 
 665
 00:50:20,870 --> 00:50:25,466
+他统治期间最不寻常的行动，信息行动。
 the most extraordinary campaign of his
 entire reign, a campaign for information.
 
 666
 00:50:28,030 --> 00:50:31,466
+我们倾向于认为Wiliam似乎永远坐在马鞍上。
 We tend to think of William
 as more or less permanently in the saddle.
 
 667
 00:50:31,630 --> 00:50:35,748
+毕竟，他成长于一个权威以兵刃
 He grew up in a world, after all,
 where authority was usually delivered
 
 668
 00:50:35,910 --> 00:50:37,980
+传递的世界。
 on the blade of a sword.
 
 669
 00:50:38,150 --> 00:50:41,859
+因此，他似乎能够本能地理解信息即力量，
 So it's all the more impressive that he seems
 to have understood instinctively
 
 670
 00:50:42,030 --> 00:50:44,783
+就格外不同寻常。
 that information
 could also be power.
 
 671
 00:50:44,950 --> 00:50:48,465
+征服者William是第一位数据库之王。
 William the Conqueror
 was the first database king.
 
 672
 00:50:51,190 --> 00:50:53,784
+他的当务之急是提高税收，
 His immediate need
 was to raise a tax,
 
 673
 00:50:53,950 --> 00:50:58,580
+但《末日审判书》的编制不仅仅是
+一次辉煌的审计，
 but the compilation of the Domesday Book
 was more than just a glorified audit.
 
 674
 00:50:58,750 --> 00:51:01,867
+它也是王国万事万物的完整清单，
 It was a complete inventory
 of everything in the kingdom,
 
 675
 00:51:02,030 --> 00:51:06,626
+细到每一个县，每一头猪；
 shire by shire, pig by pig;
 
 676
 00:51:06,790 --> 00:51:11,306
+在诺曼人到来之前，谁拥有什么，值多少钱；
 who had owned what before the coming
 of the Normans and who owned what now;
 
 677
 00:51:11,390 --> 00:51:15,019
+谁现在拥有什么，值多少钱。
 how much it had been worth then
 and how much now.
 
 678
 00:51:18,190 --> 00:51:21,387
+<i>国王派人到英格兰各地，每个县里</i>
 <i>The king sent his men</i>
 <i>all over England, into every shire,</i>
 
 679
 00:51:21,550 --> 00:51:26,146
+<i>弄清楚每个县里有多少张兽皮</i>
 <i>to find out how many hundred hides</i>
 <i>there were in each shire,</i>
 
 680
 00:51:26,310 --> 00:51:29,905
+<i>有哪些土地和牲畜归国王所有</i>
 <i>what land and cattle the king</i>
 <i>himself had in the county.</i>
 
 681
 00:51:30,070 --> 00:51:32,903
+<i>调查如此精细</i>
 <i>So very narrowly</i>
 <i>did he have it investigated</i>
 
 682
 00:51:33,070 --> 00:51:35,948
+<i>没有一张毛皮，或者 - 联系在一起说来</i>
 <i>there was no single hide</i>
 <i>nor</i> - <i>shame to relate it,</i>
 
 683
 00:51:36,110 --> 00:51:40,900
+<i>颇为尴尬，但他并不这么想</i>
+<i>哪怕一头公牛或者母牛</i>
 <i>but it seemed no shame to him</i> -
 <i>was there one ox or one cow</i>
 
 684
 00:51:41,070 --> 00:51:44,346
+<i>没有被记录在案。</i>
 <i>left out</i>
 <i>and not put down in record.</i>
 
 685
 00:51:44,510 --> 00:51:48,708
+虽然其中有些信息有William的抄写员口头获取，
 While some of the information was
 taken verbally by William's scribes,
 
 686
 00:51:48,870 --> 00:51:52,783
+有些肯定是要归功于撒克逊的记录。
 some must have owed
 its existence to Saxon records.
 
 687
 00:51:52,950 --> 00:51:56,147
+《末日审判书》最不同寻常的悖论是
 The most extraordinary paradox
 about the Domesday Book
 
 688
 00:51:56,310 --> 00:52:00,349
+这个我们视为诺曼人力量和权威的纪念碑的《审判书》
 is that what we think of as a monument
 to the power and strength of the Normans
 
 689
 00:52:00,510 --> 00:52:03,229
+本身要归功于古老的盎格鲁-撒克逊王室
 owed itself to the advanced machinery
 of government
 
 690
 00:52:03,390 --> 00:52:07,303
+所留下的先进的政府机构。
 left in place by the old
 Anglo-Saxon monarchy.
 
 691
 00:52:07,470 --> 00:52:10,382
+因为这些机构，数据收集以闪电般的速度，
 And it was thanks to this
 that the data was collected
 
 692
 00:52:10,550 --> 00:52:14,543
+在不到六个月内完成。
 at such lightning speed,
 less than six months.
 
 693
 00:52:17,030 --> 00:52:20,818
+结果在这里，Old Sarum被提交给William，
 The results were presented
 to William here at Old Sarum,
 
 694
 00:52:20,990 --> 00:52:24,062
+而他在这个古老的铁器时代的堡垒内部
 an ancient Iron Age fort
 inside which he'd built
 
 695
 00:52:24,230 --> 00:52:26,539
+修建了一座壮观的宫殿。
 a spectacular royal palace.
 
 696
 00:52:26,710 --> 00:52:28,746
+当他拿到《末日审判书》的时候，
 When he took hold
 of the Domesday Book,
 
 697
 00:52:28,830 --> 00:52:33,062
+仿佛整个王国的钥匙再次被递给William，
 it was as though William had been handed
 the keys to the kingdom all over again,
 
 698
 00:52:33,150 --> 00:52:36,665
+仿佛他再次征服了英格兰，只是
+这次是在统计意义上，
 as if he'd re-conquered England,
 but this time statistically,
 
 699
 00:52:36,830 --> 00:52:41,540
+因为其中的信息比任何城堡都更加坚不可摧。
 because its information was more
 impregnable than any castle.
 
 700
 00:52:41,710 --> 00:52:43,940
+毕竟，它被成为《末日审判书》，
 It was called
 The Domesday Book, after all,
 
 701
 00:52:44,110 --> 00:52:48,900
+是因为它的裁决，同末日审判一样不可更改。
 because it was said its decisions
 were as final as the Last Judgement.
 
 702
 00:52:52,310 --> 00:52:54,585
+<i>教会本身持有Wenlock，</i>
 <i>The Church itself holds Wenlock.</i>
 
 703
 00:52:54,750 --> 00:52:59,460
+<i>包含20张兽皮，其中4张在Canute国王治下免税。</i>
 <i>There are 20 hides, four of which</i>
 <i>are exempt from tax under King Canute.</i>
 
 704
 00:52:59,630 --> 00:53:04,704
+<i>有15个奴隶，两个磨坊为僧侣服务，加上两个渔场</i>
 <i>There are 15 slaves, two mills</i>
 <i>serve the monks, plus one fishery.</i>
 
 705
 00:53:04,870 --> 00:53:10,228
+<i>还有足以养肥300头猪的林地，和两块带篱笆的围栏</i>
 <i>Enough woodland to fatten 300 pigs,</i>
 <i>and two hedged enclosures.</i>
 
 706
 00:53:10,390 --> 00:53:12,904
+<i>现值12英镑。</i>
 <i>Value now twelve pounds.</i>
 
 707
 00:53:14,390 --> 00:53:20,499
+1087年在Old Saram的喇嘛节举行了两场庆典，
 Two ceremonies took place
 on Lammas Day, 1087, at Old Sarum.
 
 708
 00:53:20,670 --> 00:53:23,468
+首先，聚集在此的英格兰贵族
 First, every noble in England
 gathered here
 
 709
 00:53:23,630 --> 00:53:26,064
+逐个向国王效忠。
 to take an oath of loyalty
 to the king.
 
 710
 00:53:26,230 --> 00:53:29,540
+然后是《审判书》的交接，
 Then came the handing over
 of the Book,
 
 711
 00:53:29,710 --> 00:53:32,270
+让他们保持一致的终极武器。
 the ultimate weapon
 to keep them in line.
 
 712
 00:53:32,430 --> 00:53:36,264
+没人能对任何东西有所保留。正是这本书，
 Nobody could hold back anything,
 and it was this book,
 
 713
 00:53:36,430 --> 00:53:39,820
+《末日审判书》，让Old Sarum集会在
 the Domesday Book, that made
 the gathering at Old Sarum
 
 714
 00:53:39,990 --> 00:53:43,585
+欧洲封建君主制历史上有独特地位。
 unique in the history
 of feudal monarchy in Europe.
 
 715
 00:53:43,750 --> 00:53:48,107
+因为最终，这本书就是英格兰。
 For the Book ultimately WAS England.
 
 716
 00:53:49,910 --> 00:53:53,823
+在此后的几个世纪里，这本书是英国政府的秘密，
 For centuries after, this was
 the secret of English government,
 
 717
 00:53:53,990 --> 00:53:57,266
+在地主阶级影响力和国家权威之间，
 a partnership between the power
 of the landed classes
 
 718
 00:53:57,430 --> 00:53:59,421
+在田野守护者和知识守护者之间
 and the authority of the state,
 
 719
 00:53:59,590 --> 00:54:03,868
+形成伙伴关系。
 between the guardians of the green acres
 and the keepers of knowledge.
 
 720
 00:54:04,030 --> 00:54:06,100
+在右边，是士绅阶层，
 In the right hand corner, the gentry;
 
 721
 00:54:06,270 --> 00:54:08,943
+在左边，是公务员，
 in the left hand corner,
 the civil service.
 
 722
 00:54:09,110 --> 00:54:12,307
+在他们中间，是永恒的裁判，国王。
 In between them,
 the eternal umpire, the king.
 
 723
 00:54:13,790 --> 00:54:17,749
+但是裁判员最终也会受到约束。
 But the umpire was finally
 feeling the strain of it all.
 
 724
 00:54:17,910 --> 00:54:20,299
+毫不奇怪，在60岁的时候，
 Not surprising when, aged 60,
 
 725
 00:54:20,470 --> 00:54:23,462
+William依然不能抑制杀伐的冲动。
 William still couldn't resist
 playing the warlord.
 
 726
 00:54:23,630 --> 00:54:27,703
+在1087年，他通过彻底摧毁Mantes城
 In 1087, he subdued
 a border dispute in France
 
 727
 00:54:27,870 --> 00:54:31,340
+平息了跟法国的一次边界争端。
 by totally destroying
 the town of Mantes.
 
 728
 00:54:31,510 --> 00:54:35,901
+但也许他的摧毁行动就不该多这么一次，
 But perhaps this devastation
 was one too many,
 
 729
 00:54:36,150 --> 00:54:39,699
+他的士兵防火烧掉的房屋里有一根木条
 for a flaming timber
 from a house burned by his soldiers
 
 730
 00:54:39,870 --> 00:54:44,227
+刚好掉在国王面前，William骑的马突然一跳，
 fell right in front of the king.
 William's horse suddenly bucked,
 
 731
 00:54:44,390 --> 00:54:48,986
+将超重的国王剧烈地撞在马鞍上，
 throwing the now overweight king
 violently against his saddle,
 
 732
 00:54:49,150 --> 00:54:51,869
+内脏受到重击。
 his gut taking
 the force of the blow.
 
 733
 00:54:52,430 --> 00:54:56,981
+受了致命伤，William被送到Rouen的一个修道院。
 Mortally wounded, William
 was taken to a priory at Rouen.
 
 734
 00:55:00,910 --> 00:55:04,698
+在最后时刻，Orderic Vitalis在William塞了
 At the very end, Orderic Vitalis
 puts into William's mouth
 
 735
 00:55:04,870 --> 00:55:07,828
+一段惊人的临终忏悔，
 an extraordinary
 deathbed confession,
 
 736
 00:55:07,990 --> 00:55:11,266
+如此追悔，如此不符合William的形格，
 so penitential,
 so utterly out of character
 
 737
 00:55:11,430 --> 00:55:14,900
+以至于看上去完全不可信。
 that it seems on the face of it
 completely incredible.
 
 738
 00:55:15,070 --> 00:55:18,187
+但是无论William是不是这么说了，
 But whether William
 actually spoke those words or not,
 
 739
 00:55:18,350 --> 00:55:21,467
+这些话清楚地反映了部分人，可能还是不少人，
 they clearly reflected what some,
 perhaps many people,
 
 740
 00:55:21,630 --> 00:55:26,385
+对于征服者William的感受 - 在
+赢了所有的战斗之后，
 felt about William the Conqueror -
 that when all the battles were won,
 
 741
 00:55:26,550 --> 00:55:30,828
+在所有的法律都确定下来之后，
+他就是他一直的样子
 when the laws were all laid down,
 he was what he had always been,
 
 742
 00:55:30,990 --> 00:55:33,584
+一个野蛮的冒险家。
 a brutal adventurer.
 
 743
 00:55:33,750 --> 00:55:36,742
+而对英格兰的征服，并不是正义的圣战，
 And the conquest of England
 not a righteous crusade,
 
 744
 00:55:36,910 --> 00:55:41,062
+而是一次历史的意外赌局。
 but just a grand throw
 of history's dice.
 
 745
 00:55:42,430 --> 00:55:45,183
+<i>我没有指定任何人继承英格兰王位</i>
 <i>I appoint no one my heir</i>
 <i>to the crown of England</i>
 
 746
 00:55:45,350 --> 00:55:48,069
+<i>因为我自己也并未继承此项殊荣</i>
 <i>for I did not attain that honour</i>
 <i>by hereditary right,</i>
 
 747
 00:55:48,230 --> 00:55:50,983
+<i>而只是通过大量流血和殊死搏斗</i>
 <i>but wrestled it from a perjured</i>
 <i>King Harold</i>
 
 748
 00:55:51,150 --> 00:55:54,665
+<i>从背信的国王Harold手中夺得王位</i>
 <i>in a desperate battle</i>
 <i>with much effusion of human blood.</i>
 
 749
 00:55:54,830 --> 00:55:59,108
+<i>我无缘无故迫害了当地人</i>
 <i>I have persecuted its native</i>
 <i>inhabitants beyond all reason.</i>
 
 750
 00:55:59,270 --> 00:56:02,103
+<i>不加区分地残酷迫害</i>
 <i>Whether gentle or simple,</i>
 <i>I cruelly oppressed them.</i>
 
 751
 00:56:02,270 --> 00:56:04,579
+<i>我不公正地剥夺了很多人的继承权</i>
 <i>Many I unjustly disinherited.</i>
 
 752
 00:56:04,750 --> 00:56:07,867
+<i>无数人因我而死于刀兵</i>
 <i>Innumerable multitudes,</i>
 <i>especially in the county of York,</i>
 
 753
 00:56:08,030 --> 00:56:11,181
+<i>或者饥荒，尤其是在York</i>
 <i>perished through me</i>
 <i>by famine or the sword.</i>
 
 754
 00:56:11,350 --> 00:56:14,422
+<i>籍由此等罪行登上英格兰王位</i>
 <i>Having therefore made my way</i>
 <i>to the throne of that kingdom</i>
 
 755
 00:56:14,590 --> 00:56:19,425
+<i>罪孽深重，使我不敢将王位留给任何人</i>
+<i>除了上帝</i>
 <i>by so many crimes, I dare not</i>
 <i>leave it to anyone but God alone,</i>
 
 756
 00:56:19,590 --> 00:56:23,663
+<i>以免我身死之后还有更糟糕的事情发生</i>
 <i>lest after my death worse</i>
 <i>should happen by my means.</i>
 
 757
 00:56:24,870 --> 00:56:27,987
+William死去，在1087年9月9日
 Once he had gone,
 in the early hours of the morning
 
 758
 00:56:28,150 --> 00:56:32,940
+的凌晨，惊人的一幕发生了。
 of the 9th September, 1087,
 a shocking scene took place.
 
 759
 00:56:33,750 --> 00:56:37,584
+他最亲密的追随者们以抛弃他的方式
 His closest followers now paid
 their last respects to William
 
 760
 00:56:37,750 --> 00:56:39,786
+向他致最后的敬意，
 by all deserting him,
 
 761
 00:56:39,950 --> 00:56:44,466
+奔向全国各地保护他们的土地，
 racing to the four corners
 of the kingdom to secure their land,
 
 762
 00:56:44,630 --> 00:56:49,658
+留下尸体被仆人们洗劫一空，
 leaving the corpse
 to be looted by the servants,
 
 763
 00:56:49,830 --> 00:56:55,223
+赤裸肿胀的身体开始在修道院地板上腐烂，
 naked, bloated and beginning to putrefy
 on the monastery floor.
 
 764
 00:56:56,870 --> 00:57:00,499
+于是，这个一生不择手段的男人
 So the man who spent his life
 taking whatever he could
 
 765
 00:57:00,670 --> 00:57:04,663
+终于被剥夺了一切，
 by whatever means,
 was finally robbed of everything,
 
 766
 00:57:04,830 --> 00:57:07,025
+连尊严也不剩。
 even his dignity.
 
 767
 00:57:07,190 --> 00:57:12,264
+也许，上天的意旨决定这是一个合适的结局。
 Perhaps the hand of God had decided
 that this was a fitting end.
 
 768
 00:57:18,430 --> 00:57:20,898
+而他的老对手，Harold，
 As for his old antagonist, Harold,
 
 769
 00:57:21,070 --> 00:57:24,983
+肯定不像诺曼史官说的那样，
 he certainly didn't stay buried
 on the shore facing the Channel,
 
 770
 00:57:25,150 --> 00:57:27,618
+被埋在海峡岸边。
 as some Norman historians suggested.
 
 771
 00:57:27,790 --> 00:57:31,419
+有传言说他逃掉了，过着隐士的生活。
 Rumours had it that he'd escaped
 and was living as a hermit.
 
 772
 00:57:31,590 --> 00:57:35,822
+不过另一个说法更可能是真的 - 
 But another story
 is much more likely to be the truth -
 
 773
 00:57:35,990 --> 00:57:39,062
+安定下来之后，幸存的女性成员
 that once it was safe,
 the female survivors of the family
 
 774
 00:57:39,230 --> 00:57:44,020
+把Harold的遗体埋在了Waltham修道院。
 took Harold's remains and had them
 interred here at Waltham Abbey.
 
 775
 00:57:44,190 --> 00:57:46,784
+按照William和教皇的说法，
 According to William and the Pope,
 
 776
 00:57:46,950 --> 00:57:52,263
+Harold是教会的掠夺者，应该被摧毁。
 Harold was supposed to have been a despoiler
 of the Church, deserving of destruction.
 
 777
 00:57:52,430 --> 00:57:54,990
+但是Waltham的修行者们似乎不这么看，
 But the monks at Waltham
 didn't seem to agree,
 
 778
 00:57:55,150 --> 00:57:59,223
+他们秘密埋葬了Harold，并为他的灵魂祈祷。
 for they secretly buried him
 and prayed for his soul.
 
 779
 00:57:59,870 --> 00:58:03,101
+那么，在这个罗马式教堂的柱子和拱门下
 Somewhere, then,
 beneath the columns and arches
 
 780
 00:58:03,270 --> 00:58:08,025
+的某个地方，埋藏着最后一个盎格鲁-撒克逊国王，
 of this Romanesque church,
 is the last Anglo-Saxon king,
 
 781
 00:58:08,190 --> 00:58:13,025
+他在字面意义上，变成了诺曼英格兰的基础部分。
 literally part of the foundations
 of Norman England.
 
