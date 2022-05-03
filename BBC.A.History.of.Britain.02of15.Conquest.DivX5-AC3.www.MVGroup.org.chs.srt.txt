@@ -2056,7 +2056,7 @@ Harold could call on the elite
 
 346
 00:26:04,750 --> 00:26:08,789
-“骑士”精锐，他们受过专业训练，
+“悍匪”精锐，他们受过专业训练，
 of perhaps 3,000 "huscarls",
 professional soldiers
 
@@ -2813,13 +2813,13 @@ The Normans called this place
 
 474
 00:36:15,510 --> 00:36:21,779
-想象你自己再1066年10月14日的早上，
+想象在1066年10月14日的早上，
 Imagine yourself on the morning
 of Saturday 14th October, 1066.
 
 475
 00:36:21,950 --> 00:36:25,545
-你是一个撒克逊战士，刚好是一名Huscarl，
+你是一个撒克逊战士，刚好是一名“悍匪”，
 You're a Saxon warrior,
 a huscarl as it happens,
 
@@ -2836,789 +2836,965 @@ couldn't be better.
 
 478
 00:36:31,990 --> 00:36:34,743
-
+你站在山坡上，俯视
 You stand on the brow of the hill
 and look down
 
 479
 00:36:34,910 --> 00:36:37,629
+几百码外的队面。
 hundreds of yards away
 at the opposition.
 
 480
 00:36:37,790 --> 00:36:43,228
+你只要阻止诺曼人突破到伦敦的路上。
 You only have to prevent the Normans
 breaking through to the London road.
 
 481
 00:36:43,390 --> 00:36:47,463
+他们有马，但是骑马上山。
 They have the horses
 but they have to ride them uphill.
 
 482
 00:36:48,030 --> 00:36:52,660
+沿着山坡往下看，你看到密密麻麻的英国人。
 You look along the hillside
 to see a densely-packed crowd of Englishmen.
 
 483
 00:36:52,830 --> 00:36:54,866
+最前排是“悍匪”
 At the front are the huscarls,
 
 484
 00:36:55,030 --> 00:36:58,466
+一堵坚固的盾墙，还有斧手。
 a wall of solid shields,
 and with them the axemen.
 
 485
 00:36:58,630 --> 00:37:02,100
+“悍匪”后面是临时的农民士兵，
 Behind them the part-timers,
 the fighting farmers,
 
 486
 00:37:02,270 --> 00:37:05,228
+他们需要点时间来鼓足勇气。
 who must have time
 to find their courage.
 
 487
 00:37:07,590 --> 00:37:11,742
+在山下，你可以听到诺曼马匹的嘶鸣。。。
 At the foot of the hill you can hear
 the whinnying of Norman horses...
 
 488
 00:37:13,310 --> 00:37:17,303
+还有仿佛吟唱圣诗的声音。
 ...and what sounds like
 the chanting of psalms.
 
 489
 00:37:19,830 --> 00:37:22,867
+你是一名诺曼步兵，你祈祷
 You're a Norman foot-soldier
 and you hope to God
 
 490
 00:37:23,030 --> 00:37:25,498
+骑马的家伙们知道自己在干什么。
 the gentlemen on horses
 know what they're doing.
 
 491
 00:37:25,670 --> 00:37:28,468
+四周到处是金属的刮擦声，
 All around you can hear
 the scraping of metal,
 
 492
 00:37:28,630 --> 00:37:31,827
+刀刃磨砺声和上马的声音。
 the sharpening of blades,
 the mounting of horses.
 
 493
 00:37:31,990 --> 00:37:34,140
+你抬头往山上看，
 You look up to the brow of the hill
 
 494
 00:37:34,310 --> 00:37:37,859
+看到一排闪闪发光的男人，不禁自己画了个十字
 and you see a glittering line of men
 and you cross yourself.
 
 495
 00:37:38,030 --> 00:37:41,420
+你摩梭这锁甲上的铁圈儿，
 You finger the rings
-on your coat of mail, your hawberg,
+on your coat of mail, your hauberk,
 
 496
 00:37:41,590 --> 00:37:44,104
+想知道它们有多坚固。
 and wonder how solid they are.
 
 497
 00:37:44,270 --> 00:37:46,864
+想知道它们能不能扛得住斧头。
 You wonder what use
 they'll be against an axe.
 
 498
 00:37:47,030 --> 00:37:49,783
+你还从未在战场上见过斧头。
 You've never seen axes
 in battle before.
 
 499
 00:37:49,950 --> 00:37:53,738
+然后你看到了教皇的旗帜并振作起来。
 Then you catch sight
 of the Papal banner and take heart.
 
 500
 00:37:53,910 --> 00:37:57,346
+天意一定在我们这边！
 Surely God is on your side.
 
 501
 00:38:00,510 --> 00:38:04,389
+真正的开始，必然是骑兵先冲上山坡
 The real beginning must be imagined
 as the cavalry raced up the hill,
 
 502
 00:38:04,550 --> 00:38:08,429
+一个一个地进入攻击范围，
+同时听到有节奏的呼喊
 one by one getting into range,
 hearing the rhythmic chant
 
 503
 00:38:08,590 --> 00:38:11,821
+"Oot, Oot!" - 撒克逊人喊“闪开，闪开”
 of "Oot, Oot!" - Out, Out! -
 from the Saxons,
 
 504
 00:38:11,990 --> 00:38:15,187
+然后在前线投掷标枪。
 and then hurling their javelins
 at the front line.
 
 505
 00:38:17,990 --> 00:38:20,709
+接着是弓箭手缓慢推进，
 Then came the slow advance
 of the archers,
 
 506
 00:38:20,870 --> 00:38:25,022
+在敌人如雨落下的长矛中放出第一箭。
 unloosing their first arrows
 under a hail of enemy spears.
 
 507
 00:38:30,790 --> 00:38:35,306
+最后是步兵在他们身后形成小队。
 And finally the foot-soldiers
 breaking into a run behind them.
 
 508
 00:38:39,790 --> 00:38:43,749
+然后就是战马的碰撞和碾压，
 Then there was just the murderous
 smashing and crashing of horses,
 
 509
 00:38:43,910 --> 00:38:46,299
+武器的切割和戳刺，
 the slicing
 and thrusting of weapons,
 
 510
 00:38:46,470 --> 00:38:49,940
+以及伤者和垂死者的呼喊和惨叫。
 the screams,
 cries of the wounded and dying.
 
 511
 00:38:54,910 --> 00:38:57,947
+如果斧手能在骑兵队面站定，
 If the axeman stood firm
 against the oncoming horse
 
 512
 00:38:58,110 --> 00:39:01,386
+也只有一次砍准的机会。否则，
 he'd still only get one good swing.
 If he missed,
 
 513
 00:39:01,550 --> 00:39:06,101
+他就会被骑兵拿剑从上劈开。
 he was left open to the slash
 of the sword from the rider above.
 
 514
 00:39:13,590 --> 00:39:18,061
+英国人最初的成功也导致了后来的失败。
 The initial success of the English
 threatened their downfall.
 
 515
 00:39:18,230 --> 00:39:22,269
+在William的左翼，马匹在跌跌撞撞
+往后撤。
 On the left flank of William's army,
 horses stumbled and retreated.
 
 516
 00:39:22,430 --> 00:39:24,421
+Harold军队的右翼，
 The right flank of Harold's army,
 
 517
 00:39:24,590 --> 00:39:29,106
+很多都是没有经验的兼职士兵，
+他们决定往山下追击。
 many of them inexperienced fyrdmen,
 decided to chase them down the hill.
 
 518
 00:39:29,870 --> 00:39:32,942
+Harold的策略一向保守，
 But Harold,
 always conservative in his tactics,
 
 519
 00:39:33,110 --> 00:39:35,226
+不允许其他人接着追击。
 refused to allow others to follow.
 
 520
 00:39:35,390 --> 00:39:39,349
+但是他好像暂时失去了对军队的控制，
 He seems to have lost
 momentary control of his troops,
 
 521
 00:39:39,510 --> 00:39:42,104
+他们不由自主地跟着骑兵，
 who couldn't resist
 following the horsemen,
 
 522
 00:39:42,270 --> 00:39:46,343
+为诺曼公爵的失败感到兴奋。
 elated by the thought that
 the Duke of Normandy was lost.
 
 523
 00:39:46,510 --> 00:39:50,742
+但是William挺起头盔，证明自己还活着。
 But William threw back his helmet
 to prove he was very much alive.
 
 524
 00:39:51,470 --> 00:39:55,827
+他调集诺曼军队将追击过来的撒克逊人围在中间
 He rallied the ranks of the Norman centre
 round the rear of the pursuing Saxons
 
 525
 00:39:55,990 --> 00:39:59,266
+而后一点点蚕食掉。
 and set about slicing them to pieces.
 
 526
 00:40:05,790 --> 00:40:07,940
+战斗没有结束。
 The battle wasn't over yet.
 
 527
 00:40:08,110 --> 00:40:11,580
+至少在经过六个小时才决出胜负。
 It was going to take
 at least six hours to decide.
 
 528
 00:40:16,270 --> 00:40:19,103
+Bayeux挂毯在这里以惊人的直率
 The Bayeux Tapestry
 is shockingly explicit
 
 529
 00:40:19,270 --> 00:40:23,058
+暴露了屠杀和残害的程度。
 in exposing the extent
 of the carnage and mutilation.
 
 530
 00:40:27,710 --> 00:40:31,783
+最终是英国军队被缓慢地一点一点地
 But it was the English army that was
 eventually, and very, very slowly,
 
 531
 00:40:31,950 --> 00:40:33,668
+击垮了。
 ground down.
 
 532
 00:40:33,750 --> 00:40:35,945
+William开始利用发现的弱点，
 William began exploiting weak points,
 
 533
 00:40:36,030 --> 00:40:40,182
+有节奏地交替使用弓箭手和骑兵。
 settling into an alternating rhythm
 of archers and cavalry.
 
 534
 00:40:40,350 --> 00:40:44,059
+箭矢现在高高地射向空中，而后
 The arrows now shot high
 into the air and fell,
 
 535
 00:40:44,230 --> 00:40:49,384
+不是落在前线，而是他们身后那些没有
+保护的脑袋上。
 not onto the front line but the heads
 of the unprotected men behind them.
 
 536
 00:40:52,590 --> 00:40:54,945
+Harold是怎么死的？
 How did Harold himself die?
 
 537
 00:40:55,110 --> 00:40:59,422
+后来有人尝试重新解读挂毯上的死亡场景，
 Lately there has been an attempt
 to read the death scene in the Tapestry
 
 538
 00:40:59,590 --> 00:41:02,741
+认为他是其中那个被骑兵砍倒的人物，
 as though he was the figure
 cut down by the horseman,
 
 539
 00:41:02,910 --> 00:41:06,300
+而不是我们从小被教的，把箭从眼睛
 not the warrior
 pulling the arrow out of his eye,
 
 540
 00:41:06,470 --> 00:41:08,461
+中拔出的人物。
 the story you and I grew up with.
 
 541
 00:41:08,630 --> 00:41:12,589
+不过在我看来，“Harold Rex”字样
 It seems to me perfectly clear
 that the words "Harold Rex"
 
 542
 00:41:12,750 --> 00:41:17,585
+明显而直接地出现在头上中箭的人上方，
+意思是非常清楚的。
 occur directly and significantly
 above the arrow-struck figure.
 
 543
 00:41:20,070 --> 00:41:24,586
+而骑士们肯定会攻击他，将他砍翻，
 Then certainly the knights would
 have been on him, cutting him down,
 
 544
 00:41:24,750 --> 00:41:27,310
+开膛破肚。
 leaving him disembowelled.
 
 545
 00:41:28,630 --> 00:41:31,303
+领主们勇敢地挺身而出，
 The Thanes bravely mounted
 a last stand,
 
 546
 00:41:31,470 --> 00:41:36,385
+包围他们的国王的尸身，但对很多人来说，
+事情已经没有意义。
 defending the body of their king,
 but for many it was a lost cause.
 
 547
 00:41:36,550 --> 00:41:40,065
+该是缩头让开的时候了。
 It was time to save one's neck,
 to get out of the way.
 
 548
 00:41:42,830 --> 00:41:45,788
+接下来有很多悲伤的故事，
 There are such sad stories
 of what follows,
 
 549
 00:41:45,950 --> 00:41:47,986
+其中有些可能是真实的。
 and perhaps some of them are true.
 
 550
 00:41:48,150 --> 00:41:50,983
+其中之一是，Harold的情人，Edith Swan Neck，
 One of them has Harold's lover,
 Edith Swan Neck,
 
 551
 00:41:51,150 --> 00:41:55,428
+穿过血腥的尸体堆，通过只有她知道的标记
 walking through the heaps of gory
 corpses to identify the dead king
 
 552
 00:41:55,590 --> 00:41:59,902
+来寻找识别死去的国王。
 by marks on his body,
 known only to her.
 
 553
 00:42:01,590 --> 00:42:05,503
+我们确切知道的是，
+英格兰贵族有大约一半
 What we do know is that around
 half the nobility of England
 
 554
 00:42:05,670 --> 00:42:08,264
+死于这个战场。
 perished on that battlefield.
 
 555
 00:42:27,950 --> 00:42:31,260
+William曾发誓，如果上帝赐予他胜利
 William had sworn
 that should God give him the victory
 
 556
 00:42:31,430 --> 00:42:35,628
+他会在Harold插旗的地方建一座宏伟的
 he would build a great abbey
 of thanksgiving at the exact spot
 
 557
 00:42:35,790 --> 00:42:38,987
+感恩修道院。就是这里 - 
 where Harold had planted
 his flag, and here it is -
 
 558
 00:42:39,150 --> 00:42:44,349
+俨然是虔诚的欢庆宣言。
 a statement, if ever
 there was one, of pious jubilation.
 
 559
 00:42:46,670 --> 00:42:50,219
+但William必须确保他赢得的不仅仅
+是这一场战斗，
 But William had to make sure
 he'd won not just a single battle
 
 560
 00:42:50,390 --> 00:42:52,665
+而是整个英格兰。
 but the war for England.
 
 561
 00:42:52,830 --> 00:42:57,381
+这是通过一种有着悠久传统的方式完成的，
+大张旗鼓，沿着英格兰东南
 This was done in the time-honoured way,
 cutting a swathe of fire, rape and plunder
 
 562
 00:42:57,550 --> 00:43:00,383
+一路奸淫掳掠。
 through the countryside
 of south-east England.
 
 563
 00:43:00,550 --> 00:43:04,907
+盎格鲁-撒克逊城市一个个陷落。
 One by one
 the Anglo-Saxon cities folded.
 
 564
 00:43:06,190 --> 00:43:12,026
+威廉于 1066 年圣诞节在威斯敏斯特加冕。
 William was crowned at Westminster
 on Christmas Day 1066.
 
 565
 00:43:12,190 --> 00:43:15,341
+但是加冕式更像是一团糟而不是胜利。
 But the event was more
 like a shambles than a triumph.
 
 566
 00:43:17,590 --> 00:43:21,788
+在欢呼声中，外边的诺曼士兵
 At the shout of acclamation,
 the Norman soldiers stationed outside
 
 567
 00:43:21,950 --> 00:43:24,908
+以为是暴动，他们的反应是
 thought a riot had started,
 to which their response was
 
 568
 00:43:25,070 --> 00:43:27,868
+烧掉看到的所有房子。
 to burn down every house in sight.
 
 569
 00:43:28,630 --> 00:43:31,383
+随着战斗打响，修道院里的很多人
 As fighting broke out,
 many inside the Abbey,
 
 570
 00:43:31,550 --> 00:43:34,860
+闻着烟味，跑到了外边。
 smelling smoke, rushed outside.
 
 571
 00:43:35,510 --> 00:43:40,538
+庆典在半空的室内完成，
 The ceremony was completed
 in a half empty interior,
 
 572
 00:43:40,710 --> 00:43:46,023
+而威廉，有生以来第一次，被看到
+像树叶一样颤抖。
 with William, for the first time in his life,
 seen to be shaking like a leaf.
 
 573
 00:43:49,230 --> 00:43:52,700
+在William从加冕式的混乱和浓烟中走出的时候
 When he emerged from the smoke
 and chaos of the coronation,
 
 574
 00:43:52,870 --> 00:43:56,704
+幸存的统治阶级想象的
 just what kind of king did the surviving
 remnant of the old governing class
 
 575
 00:43:56,870 --> 00:43:58,861
+是什么样的国王呢？
 imagine they had?
 
 576
 00:43:59,030 --> 00:44:02,545
+他们会以为这不过是另外一个Canute，
 Did they fondly suppose
 he was going to be another Canute,
 
 577
 00:44:02,710 --> 00:44:07,101
+胜利之后就会遣散军队，送士兵回家吗？
 who now that he'd won, would disband
 his army and send them home?
 
 578
 00:44:07,270 --> 00:44:11,502
+如果他们这样想，他们就会受到暴击。
 If they did, they were in
 for a very nasty shock,
 
 579
 00:44:11,670 --> 00:44:15,822
+因为即使William想这么做，也做不到。
 because even if William had wanted
 to do this, it was quite impossible.
 
 580
 00:44:15,990 --> 00:44:20,984
+他的行动完全基于以土地为诱饵的承诺，
 His whole campaign had been based
 on the promise of the lure of land,
 
 581
 00:44:21,150 --> 00:44:26,941
+誓言将撒克逊人的土地呈上征服的金盘。
 the pledge to hand over Saxon
 land on a golden plate of conquest.
 
 582
 00:44:28,670 --> 00:44:31,230
+因此，让William成为另一个Canute
 So there was never
 the remotest chance that William
 
 583
 00:44:31,390 --> 00:44:34,029
+融入盎格鲁-撒克逊英格兰
 was going to be another Canute
 and assimilate himself
 
 584
 00:44:34,190 --> 00:44:36,704
+是完全不可能的。
 into the world
 of Anglo-Saxon England.
 
 585
 00:44:36,870 --> 00:44:39,430
+他的征服，改变了英国的朝向。
 His conquest
 turned the country around.
 
 586
 00:44:39,590 --> 00:44:42,388
+英国如今朝向南方，
 England's orientation now was south,
 
 587
 00:44:42,550 --> 00:44:47,226
+远离斯堪的纳维亚，朝向欧洲大陆。
 away from Scandinavia
 and towards continental Europe.
 
 588
 00:44:51,230 --> 00:44:53,744
+最多的抵抗
 The part of the country
 offering most resistance
 
 589
 00:44:53,910 --> 00:44:58,028
+来自英格兰北部，那里仍然保留着
+强烈的对维京人的同情。
 was the north of England, which still
 retained strong Viking sympathies.
 
 590
 00:44:58,190 --> 00:45:01,500
+William在位仅三年，York就向丹麦
 Just three years into William's reign,
 York opened its gates
 
 591
 00:45:01,670 --> 00:45:05,299
+国王Swein敞开了大门，称其为
 to King Swein of Denmark,
 hailing him as a liberator
 
 592
 00:45:05,470 --> 00:45:07,904
+英国新国王的解放者。
 from the new king of England.
 
 593
 00:45:10,470 --> 00:45:14,986
+William的回应是，在北方发起一场镇压运动，
 William's response was to mount
 a campaign of oppression in the north
 
 594
 00:45:15,150 --> 00:45:19,780
+不仅是惩罚，更是大规模屠杀 - 
 which was not just punitive
 but an exercise in mass murder -
 
 595
 00:45:19,950 --> 00:45:22,669
+成千上万的男人和男孩惨遭屠戮
 thousands of men and boys
 gruesomely butchered,
 
 596
 00:45:22,830 --> 00:45:27,187
+任由尸体在大路上腐坏
 their bodies left to rot and fester
 in the highways.
 
 597
 00:45:31,990 --> 00:45:34,982
+每个城镇和村庄都被无情地烧毁，
 Every town and village
 burnt without pity.
 
 598
 00:45:35,150 --> 00:45:38,108
+庄稼和牲畜被彻底毁掉，
 Fields and livestock
 destroyed so completely
 
 599
 00:45:38,270 --> 00:45:42,024
+任何幸存下来的人都只能死于饥荒。
 that any survivors were doomed
 to die in a great famine.
 
 600
 00:45:45,430 --> 00:45:50,345
+屠杀和饥荒尚未结束，瘟疫接踵而至。
 Hard on the heels of massacre
 and starvation came plague.
 
 601
 00:45:51,990 --> 00:45:55,585
+在英格兰各处，William建造了至少90座城堡，
 All across England,
 William built at least 90 castles,
 
 602
 00:45:55,750 --> 00:45:58,901
+震慑潜在的叛乱地区，
 dominating areas
 of potential revolt,
 
 603
 00:45:59,070 --> 00:46:03,825
+这些恐怖引擎帮助William用仅仅25000诺曼人
 engines of terror that helped William
 control over two million Saxons
 
 604
 00:46:03,990 --> 00:46:07,346
+就统治了超过两百万撒克逊人。
 with just 25,000 Normans.
 
 605
 00:46:17,630 --> 00:46:23,262
+流传至今的对1066年之后的描述大多
 Most of the voices that have come down
 to us describing the events after 1066
 
 606
 00:46:23,430 --> 00:46:26,228
+从胜利者角度书写，
 are written
 from the victor's perspective,
 
 607
 00:46:26,390 --> 00:46:30,941
+毫无歉意，洋洋自得，
+在背信弃义的Harold和高贵的、被出卖的William
 unapologetic and crowing,
 sketching the starkest possible contrast
 
 608
 00:46:31,110 --> 00:46:36,901
+之间勾画出强烈的对比。
 between the Machiavellian perjurer Harold
 and the noble, betrayed William.
 
 609
 00:46:37,070 --> 00:46:40,221
+但在这片令人作呕的祝贺合唱中，
 But among this nauseating
 chorus of congratulation
 
 610
 00:46:40,390 --> 00:46:43,143
+至少有一篇敢于发出不同的声音
 there's at least one
 that dares break rank,
 
 611
 00:46:43,310 --> 00:46:46,461
+将征服视为它本来的样子
 that in fact sees the conquest
 as it surely was -
 
 612
 00:46:46,630 --> 00:46:53,308
+一次野蛮无情，却完全成功的侵略
+和残忍行动。
 a brutal, ruthless and completely successful
 act of aggression and cruelty.
 
 613
 00:46:54,550 --> 00:46:57,542
+这个声音更加可信，因为它来自一个
 The voice is all the more credible
 because it belongs to someone
 
 614
 00:46:57,710 --> 00:47:01,703
+从权力角度讲，在诺曼征服中没有任何过错的人
 who by rights, should have found
 nothing to fault in the Norman Conquest -
 
 615
 00:47:01,870 --> 00:47:05,829
+修道士Orderic Vitalis，
+他的家人和William一起来到这里
 the monk Orderic Vitalis,
 whose family came over with William
 
 616
 00:47:05,990 --> 00:47:09,266
+因此，属于征服阶级。
 and belonged, therefore,
 to the conquering class.
 
 617
 00:47:09,430 --> 00:47:11,466
+在12世纪早期，
 In the early 12th century,
 
 618
 00:47:11,550 --> 00:47:15,225
+他开始写下诺曼的征服及其后果
 he began to pen his account
 of the Conquest and its aftermath,
 
 619
 00:47:15,310 --> 00:47:17,778
+而与其他人完全不同的是，
 and, in complete contrast to the others,
 
 620
 00:47:17,950 --> 00:47:22,785
+Orderic从不讳言他对殖民的看法。
 Orderic never minces his words
 about what he thought of as a colonisation.
 
 621
 00:47:23,030 --> 00:47:26,625
+<i>外族人因为英格兰的战利品而发家</i>
 <i>Foreigners grew wealthy</i>
 <i>with the spoils of England,</i>
 
 622
 00:47:26,790 --> 00:47:29,623
+<i>而她自己的儿子要么被可耻地杀害</i>
 <i>while her own sons</i>
 <i>were either shamefully slain</i>
 
 623
 00:47:29,710 --> 00:47:34,465
+<i>要么被流放到国外，在绝望中游荡</i>
 <i>or driven as exiles to wander hopelessly</i>
 <i>through foreign kingdoms.</i>
 
 624
 00:47:36,950 --> 00:47:41,660
+他的记述1066年之后在英格兰所发生的
 His account conveys the traumatic
 magnitude of what happened in England
 
 625
 00:47:41,830 --> 00:47:44,424
+事情的创伤程度。
 in the years following 1066.
 
 626
 00:47:44,510 --> 00:47:49,140
+如Orderic所说，被征服之前的英格兰是一个古老的国家，
 Pre-Conquest England was an old country,
 as Orderic describes it.
 
 627
 00:47:49,310 --> 00:47:51,824
+被征服之后，则是一个全新的国家。
 Afterwards,
 it was a completely new one.
 
 628
 00:47:52,870 --> 00:47:55,828
+当然，并非一切都改变了。
 Of course,
 not everything changed,
 
 629
 00:47:55,910 --> 00:47:58,344
+如果看政府机构列表，
 and to look at a list
 of governing institutions
 
 630
 00:47:58,430 --> 00:48:00,739
+你可能会认为根本没什么变化；
 you might suppose
 nothing had changed;
 
 631
 00:48:00,910 --> 00:48:05,142
+一类长官被踢出去，换成另一类长官，
 that one class of governors had
 kicked out another class of governors.
 
 632
 00:48:05,310 --> 00:48:07,187
+有多大区别？
 Big deal!
 
 633
 00:48:07,350 --> 00:48:09,466
+但我认为区别很大。
 But I rather think it was a big deal.
 
 634
 00:48:09,630 --> 00:48:15,068
+想象一下，英格兰的士绅 - 牧师，乡绅，法官
 Imagine the county gentry
 of England - priests, squires, judges -
 
 635
 00:48:15,230 --> 00:48:18,859
+- 在一夜之间全部倾覆，一半死去，
 all wiped out overnight,
 half of them dead,
 
 636
 00:48:19,030 --> 00:48:24,423
+另一半被羞辱，破家，被外族取代。
 the rest humiliated, broken,
 replaced by an alien class.
 
 637
 00:48:24,590 --> 00:48:30,142
+他们语言不同，长相不同，又予求予取，
 They speak differently, they look different,
 they take what they want when they want,
 
 638
 00:48:30,310 --> 00:48:34,019
+还能在法庭上强加其决定。
 and then rubber-stamp
 the decision in your courts.
 
 639
 00:48:36,590 --> 00:48:39,263
+他们的建造方式也不一样。
 They also build differently.
 
 640
 00:48:39,510 --> 00:48:41,705
+Ely大教堂
 Ely Cathedral is one of those places
 
 641
